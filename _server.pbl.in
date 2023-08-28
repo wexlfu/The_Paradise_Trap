@@ -1,0 +1,11 @@
+title="The Paradise Trap"
+version="@VERSION@"
+icon="@ICON@"
+author=shacknetisp
+type=campaign
+passphrase="@PASSPHRASE@"
+email="@EMAIL@"
+description="@DESCRIPTION@
+@MEDAL_DESCRIPTION@
+
+@CAMPAIGN_STATS_PLAIN@"

@@ -1,5 +1,5 @@
 # The Paradise Trap
-* Version: 0.0.1
+* Version: 0.0.3
 * Scenarios: 0 playable out of 0 planned.
 * Medals earnable: 0
 
