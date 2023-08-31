@@ -13,3 +13,5 @@
 * Balur o' Knives
 	* Abused cabin boy with incredible luck, marooned after his ship went down. Saved the treasure box.
 	* Desires to make a name for himself, personal glory. Learns there is no easy road to greatness, leans on friends to achieve his dream of power.
+
+# Storyboard
