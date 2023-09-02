@@ -14,4 +14,107 @@
 	* Abused cabin boy with incredible luck, marooned after his ship went down. Saved the treasure box.
 	* Desires to make a name for himself, personal glory. Learns there is no easy road to greatness, leans on friends to achieve his dream of power.
 
+# Overarching plot
+
+## Crew
+
+* John Carewell - Exuberant adventurer to tired father who doesn't give up on his crew's aspirations even after many trials
+	* Goal - riches, glory, legacy
+
+* Martin Tanner - Tired father to giving up on the adventure all together
+	* Goal - getting his wife and son out of Aldril so he can share his riches with them, they were poor
+	* Final chapter of his story is a covert rescue mission with few resources
+		* His wife died while he was gone
+	* He does not get to see the glorious final chapters of paradise
+
+* Balur o' Knives - Scrappy cabin boy leader to lawful noble lord
+	* Transforms from thief line to fencer line
+	* Goal - becoming legit lord
+	* Becomes John's successor
+
+* Mana Eloro - Representative from the Three Sisters' School of the Earth
+	* Their city is taking an interest in Paradise, Mana is their representative
+	* She is at first interested in politics, but takes a love for the adventure and drive for exploration
+	* Grows in confidence, power, and independence
+	* Afraid of losing contact with the Three Sisters' council
+
+* Sandred Magel - Thar-Nella mage, counterpart to Mana Eloro, agent toward Paradise
+	* Grows closer to Mana, eventually helping form treaty between Thar-Nella and Three Sisters'
+	* Always skirting the edge of acceptability, shirks responsibility
+	* Eventually tempers his love for adventure and takes protecting the world more seriously as he sees the damage done by humans
+	* Love for the darkness breaks his ties with the Carewell group, but he returns in the end to protect Paradise
+
+* Carale - Native Elf of one of the Paradise Islands
+	* Allies with the Carewell group after their island is conquered by Segred's forces as a military base
+	* Frightened
+	* John Carewell helps her grow in strength.
+	* She becomes close friend and advisor to Balur, they rule together afterward
+
+* Mundy - Lost Dwarf
+	* He's a little confused
+	* But he's got the right spirit
+	* Loyal to a fault
+	* Has a strange connection to the natural world, earns the admiration of Mana Eloro and Carale
+	* Animosity with Sandred
+
+## Others
+
+* Masuen - Elvish Mercenary Captain
+	* Sells her services to traders in Paradise, fights against all authority
+	* Helps Carewell organize his forces
+
+* Guinewyr, Lady Weldyn, Queen of Wesnoth
+	* Current political head of Weldyn, claims to be Queen of Wesnoth
+	* Deeply interested in culture and history
+
+* Lord Bors of Elensefar
+	* Warrior monk appointed by the trading guilds of Elensefar
+	* Tough guy with a powerful sense of humor
+
+* Bek Parorde, Orcish King of Glamdrol
+	* Advised by dwarvish and outlaw friends, wants to bring orcs into the modern age of Paradise.
+
+## Antagonists
+
+* Earl Segred - "King" of Aldril, aspiring King of Paradise
+	* Invested enormous personal fortune into fleet and influence with Elensefar.
+	* Goal - Rebuilding a great kingdom of men and plundering the riches of paradise.
+	* Contracts with Silver Magi to communicate across his empire
+
+* Grand Marshal Haldric Greyblade of Dan Tonk - Military dictator in Dan Tonk
+	* Cooperating and funding Earl Segred in exchange for rights in Paradise
+
+* Erok Blackbeard - The powder smuggler
+	* Dwarvish smuggler of drakefire
+	* True anarchist, betrays everyone
+	* Component of first strike against Segred
+	* Ends up killing Carewell out of jealousy that he lost Paradise
+	* Hunted down and slain by Sandred Magel and Mundy
+
+## Events
+
+* John and Martin prepare to cash out and go live in paradise
+* Balur is marooned but steals the signet ring of Aldril
+
+* Erok Blackbeard kills John Carewell out of jealousy
+* Sandred Magel and Mundy hunt down and slay Blackbeard
+
 # Storyboard
+
+## Intro
+
+* John and Martin winter on an island (2 scenarios)
+	* End of a voyage
+	* Establish energetic John with plenty of camraderie
+	* Establish tired, wiser Martin
+	* Establish they are ready to cash out and return, John to celebration, Martin to his family in Aldril.
+	* Establish boat mechanics and first outlaw army.
+
+* Balur commits mutiny and escapes with the strongbox after being thrown overboard, rescued by a friendly merfolk (1 scenario, 1 cutscene)
+	* Establish his will to lead
+	* Hopes crushed after his boys all die
+	* But he's never been more driven for revenge
+	* Marooned on winter island with nobody around, starving to death.
+	* Captain Esoas will be a recurring villain, eventually dragon to the big bad
+	* Balur is a ladies' man, he woos the mermaid who rescues him
+	* Balur obtains the signet ring of Aldril, being sent on the *Covenant* to Glamdrol for the lieutenant force of Aldril.

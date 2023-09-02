@@ -1,6 +1,6 @@
 # The Paradise Trap
 * Version: 0.1.0
-* Scenarios: 2 playable out of 0 planned.
+* Scenarios: 3 playable out of 0 planned.
 * Medals earnable: 1
 
 Nobody controls the high seas. Privateers and petty navies fight over paradise; many a good man seeks his fortune in the wealth of plundered goods stolen from islands and mainlands, hidden in coves for a day of celebration that may never come. Can one band of mercenary pirates hold together long enough to find a happy ending?
