@@ -45,7 +45,7 @@
 	* Love for the darkness breaks his ties with the Carewell group, but he returns in the end to protect Paradise
 
 * Carale - Native Elf of one of the Paradise Islands
-	* Allies with the Carewell group after their island is conquered by Segred's forces as a military base
+	* Allies with the Carewell group after their island is conquered by Segreth's forces as a military base
 	* Frightened
 	* John Carewell helps her grow in strength.
 	* She becomes close friend and advisor to Balur, they rule together afterward
@@ -76,26 +76,55 @@
 
 ## Antagonists
 
-* Earl Segred - "King" of Aldril, aspiring King of Paradise
+* Earl Segreth - "King" of Aldril, aspiring King of Paradise
 	* Invested enormous personal fortune into fleet and influence with Elensefar.
 	* Goal - Rebuilding a great kingdom of men and plundering the riches of paradise.
 	* Contracts with Silver Magi to communicate across his empire
 
+	* Captain Esoas - Army
+	* Captain Baylwa - Outlaw
+		* Dacura Silkhair - Advisor and strategist
+
 * Grand Marshal Haldric Greyblade of Dan Tonk - Military dictator in Dan Tonk
-	* Cooperating and funding Earl Segred in exchange for rights in Paradise
+	* Cooperating and funding Earl Segreth in exchange for rights in Paradise
 
 * Erok Blackbeard - The powder smuggler
 	* Dwarvish smuggler of drakefire
 	* True anarchist, betrays everyone
-	* Component of first strike against Segred
+	* Component of first strike against Segreth
 	* Ends up killing Carewell out of jealousy that he lost Paradise
 	* Hunted down and slain by Sandred Magel and Mundy
 
 ## Events
 
+## Intro
 * John and Martin prepare to cash out and go live in paradise
 * Balur is marooned but steals the signet ring of Aldril
 
+## Cashing Out
+* In the spring, Elensefar is under blockade by Segret's navy, Carewell breaks the blockade briefly by accidentally arriving in the middle of the seige, allowing Elensefar to launch a counterattack
+	* Blockade to force a trade/tax deal
+* Captain Baylwa dispatched with a fleet to hunt down Carewell. Drives them into the island where Balur is marooned. Naval/cove battle ends with a storm driving off Baylwa, but pirates' ships are in in bad shape.
+* Balur joins the crew and guides them through the forest to a stand of great pines where they repair the ships with some resistance from the native wose/troll population.
+* Balur and Martin form a plan to use the Aldril seal to dock in Blackwater Port to cash out their loot.
+* The crew docks in Blackwater but is met with the law after only a few nights - wanted posters have been circulated and the city is crawling with agents
+* John forms a new plan to steal as much loot as possible and settle in Paradise
+	* Martin not happy about leaving his wife and son even longer
+
+## Return to Paradise
+*
+
+## Carewell Aggression
+* The Carewell Pirates execute a decisive raid on the military base on Ialwas as part of a join operation with Masuen and Erok Blackbeard to reopen trade
+	* Carale, local contact, joins the Carewell pirates as representative
+
+## Tanner's Rescue
+* Martin Tanner executes a rescue mission for his wife and son in Aldril along with Balur, who forges documents getting them past the port
+	* Only his son is still alive
+	* They have an escape mission from Segreth's fleet
+	* He leaves the crew and settles in remote Paradise
+
+## Blackbeard Finale
 * Erok Blackbeard kills John Carewell out of jealousy
 * Sandred Magel and Mundy hunt down and slay Blackbeard
 

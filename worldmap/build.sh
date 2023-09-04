@@ -27,6 +27,8 @@ label 3303 2304 "Blackwater Port"
 label 3024 2037 "Isle of Alduin"
 label 2445 1134 "The Three Sisters"
 
+label 1606 1317 "Ialwas"
+
 label 3357 441 "Glamdrol"
 label 3837 282 "Rumyr"
 
