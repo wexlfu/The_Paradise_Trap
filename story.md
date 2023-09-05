@@ -112,7 +112,7 @@
 	* Martin not happy about leaving his wife and son even longer
 * Carewell raids some merchant ships on his way to Paradise
 
-## Return to Paradise (Summer 713 YW)
+## Returning to Paradise (Summer 713 YW)
 * Mana Eloro defends her city (Soroyn) against Segreth's forces. They enlist the help of Masuen's mercenaries, who had been wintering there.
 * Carewell arrives with enough naval power to force Segreth's forces to retreat from the island.
 * Soroyn leadership, Mana Eloro, the Carwell pirates, and Masuen hold council on how to handle Segreth's aggression.
@@ -120,6 +120,11 @@
 * Meanwhile, Balur and Mana defend Soroyn from Segreth's attempted counterattack.
 * John and Martin fight through the surface inhabitants of Blackbeard's island (drakes/monsters) and essentially break through the back door of his underground base.
 	* Erok will remember this.
+* Baylwa attempts to ambush the Miss Fortune at the Red Isle, but Carewell and Blackbeard destroy her fleet.
+* Soroyn is overrun by Captain Esoas. Balur and Mana go into hiding as the earth magic school is destroyed. Masuen is forced to abandon the islands.
+
+## Paradise Regained (Autumn 713 YW)
+*
 
 ## Carewell Aggression
 * The Carewell Pirates execute a decisive raid on the military base on Ialwas as part of a join operation with Masuen and Erok Blackbeard to reopen trade
