@@ -26,6 +26,7 @@ label 4000 1190 "Carcyn"
 label 3303 2304 "Blackwater Port"
 label 3024 2037 "Isle of Alduin"
 label 2445 1134 "The Three Sisters"
+label 2390 1575 "The Red Isle"
 
 label 1606 1317 "Ialwas"
 
@@ -40,6 +41,7 @@ label 4875 2844 "Fort Tahn"
 label 4815 1362 "Gryphon Mountain"
 label 5640 1086 "Swamp of Dread" 2
 label 4380 213 "Lake Vrug" 2
+label 3395 1890 "Bay of Pearls"
 
 label 3960 760 "Wesmere Forest" 2
 label 3774 2670 "Aethenwood"

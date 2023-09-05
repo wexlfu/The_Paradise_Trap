@@ -97,11 +97,11 @@
 
 ## Events
 
-## Intro
+## Intro (Winter 712-713 YW)
 * John and Martin prepare to cash out and go live in paradise
 * Balur is marooned but steals the signet ring of Aldril
 
-## Cashing Out
+## Cashing Out (Spring 713 YW)
 * In the spring, Elensefar is under blockade by Segret's navy, Carewell breaks the blockade briefly by accidentally arriving in the middle of the seige, allowing Elensefar to launch a counterattack
 	* Blockade to force a trade/tax deal
 * Captain Baylwa dispatched with a fleet to hunt down Carewell. Drives them into the island where Balur is marooned. Naval/cove battle ends with a storm driving off Baylwa, but pirates' ships are in in bad shape.
@@ -110,9 +110,13 @@
 * The crew docks in Blackwater but is met with the law after only a few nights - wanted posters have been circulated and the city is crawling with agents
 * John forms a new plan to steal as much loot as possible and settle in Paradise
 	* Martin not happy about leaving his wife and son even longer
+* Carewell raids some merchant ships on his way to Paradise
 
-## Return to Paradise
-*
+## Return to Paradise (Summer 713 YW)
+* Mana Eloro defends her city (Soroyn) against Segreth's forces. They enlist the help of Masuen's mercenaries, who had been wintering there.
+* Carewell arrives with enough naval power to force Segreth's forces to retreat from the island.
+* Soroyn leadership, Mana Eloro, the Carwell pirates, and Masuen hold council on how to handle Segreth's aggression.
+* TODO: Mission to Blackbeard
 
 ## Carewell Aggression
 * The Carewell Pirates execute a decisive raid on the military base on Ialwas as part of a join operation with Masuen and Erok Blackbeard to reopen trade
