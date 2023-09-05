@@ -116,7 +116,10 @@
 * Mana Eloro defends her city (Soroyn) against Segreth's forces. They enlist the help of Masuen's mercenaries, who had been wintering there.
 * Carewell arrives with enough naval power to force Segreth's forces to retreat from the island.
 * Soroyn leadership, Mana Eloro, the Carwell pirates, and Masuen hold council on how to handle Segreth's aggression.
-* TODO: Mission to Blackbeard
+* John and Martin head on a diplomatic mission to Erok Blackbeard's home base.
+* Meanwhile, Balur and Mana defend Soroyn from Segreth's attempted counterattack.
+* John and Martin fight through the surface inhabitants of Blackbeard's island (drakes/monsters) and essentially break through the back door of his underground base.
+	* Erok will remember this.
 
 ## Carewell Aggression
 * The Carewell Pirates execute a decisive raid on the military base on Ialwas as part of a join operation with Masuen and Erok Blackbeard to reopen trade
