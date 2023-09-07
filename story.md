@@ -83,7 +83,7 @@
 
 	* Captain Esoas - Army
 	* Captain Baylwa - Outlaw
-		* Dacura Silkhair - Advisor and strategist
+		* Dacura Silkhair - Advisor and strategist, silver mage
 
 * Grand Marshal Haldric Greyblade of Dan Tonk - Military dictator in Dan Tonk
 	* Cooperating and funding Earl Segreth in exchange for rights in Paradise
@@ -123,22 +123,56 @@
 * Baylwa attempts to ambush the Miss Fortune at the Red Isle, but Carewell and Blackbeard destroy her fleet.
 * Soroyn is overrun by Captain Esoas. Balur and Mana go into hiding as the earth magic school is destroyed. Masuen is forced to abandon the islands.
 
-## Paradise Regained (Autumn 713 YW)
-*
+## Settling in Paradise (Autumn 713 YW - Winter 713-714 YW)
+* Carewell and Blackbeard execute a rescue mission evacuating the earth magi and crew. Carewell flees west into Paradise, Blackbeard returns home.
+* Balur and Mana begin subjugating the local outlaws and pirates and uniting them under the Carewell banner.
+* Mundy is discovered during an expidition to quell a group of hostile orcish pirate settlers. He joins the crew.
+* John and Martin construct a pirate base to establish their army. John leads a daring mission to establish contact with Masuen's fleet before Winter and try to gain allies against Segreth.
+* Late in the winter, Sandred Magel is teleported in by Thar-Nella magi as an agent against Segreth's dominion and order of silver magi. He warns of teleportation research.
+* Sandred joins Balur and Mundy in securing the new city against the monsters and orcish winterships.
 
-## Carewell Aggression
-* The Carewell Pirates execute a decisive raid on the military base on Ialwas as part of a join operation with Masuen and Erok Blackbeard to reopen trade
+## Carewell Aggression (Spring 714 YW)
+* Early in the spring, Weldyn and Elensefar send messages of cooperation, though not direct support. Both are hard pressed by Segreth.
+* Sandred and Mana push for aggressive action (Mana for Soroyn, Sandred for Thar-Nella), along with allies. The Carewell crew decides to gather their allies and defeat Segreth forever.
+* The Carewell Pirates execute a decisive raid on the military base on Ialwas as part of a joint operation with Masuen and Erok Blackbeard to reopen trade
 	* Carale, local contact, joins the Carewell pirates as representative
+	* Blackbeard and Masuen take over the military base
+* Carale, Balur, Mana, and John sneak into Soroyn (using the signet ring) to rally local forces, while Sandred, Martin, and Mundy fight through Segreth's navy and drake allies (nearby island bases) toward the Three Sisters.
+* The great battle of Soroyn occurs by land and by sea. Soroyn is liberated.
+* Reports arrive of Segreth executing pincer maneuvers to the north and south. The Carewell pirates split their forces to intercept the attacks. They agree to converge on Aldril at the end of Winter.
 
-## Tanner's Rescue
-* Martin Tanner executes a rescue mission for his wife and son in Aldril along with Balur, who forges documents getting them past the port
+## The First Carewell Offensive (Summer 714 YW - Autumn 714 YW)
+* Mundy and Martin sail north to link with dwarvish allies and intercept an orcish army heading out of Glamdrol toward Elensefar. They push them into the land and defeat them.
+* Carale, Balur, and John head south toward Blackwater and cut off the port from Segreth, helping Weldyn's agents control the city.
+* Mana and Sandred defend the Three Sisters and form a pact between Thar-Nella and the Earth Magi.
+
+* Mundy and Martin liberate Elensefar. Masuen links up with the city.
+* Martin Tanner executes a rescue mission for his wife and son in Aldril (Balur gave him the signet ring, and he forges documents getting them past the port)
 	* Only his son is still alive
 	* They have an escape mission from Segreth's fleet
 	* He leaves the crew and settles in remote Paradise
+* Mundy becomes fast friends with Lord Bors, the two face an assault by Bek Parorde himself and his army of orcs and outlaws.
+* Segreth deploys the Silver Magi Navy against Blackwater and Carale, Balur, and John. They are unable to defend the city, and retreat into the deeps of the Aethenwood rivers.
 
-## Blackbeard Finale
-* Erok Blackbeard kills John Carewell out of jealousy
-* Sandred Magel and Mundy hunt down and slay Blackbeard
+## The Darkness (Winter 714-715 YW)
+* Mana and Sandred capture a Silver Magi vessel and decide to the the technology to split up and reinforce each half of the Carewell forces.
+* Mana teleports to Elensefar with the Earth Magi, bolstering their defenses.
+* Sandred teleports to the Aethenwood, where he uses his dark arts to turn the winter against the Silver Magi.
+
+## The End of Aldril (Spring 715 YW)
+* Mundy and Mana defeat Bek Parorde, who never retreats. They turn their forces south.
+* Sandred, Carale, Balur, and John break out of the Aethenwood, and retake their ships, sailing north. Sandred's animations and some forces head by land toward Aldril as well.
+* Everyone converges on Aldril. In the heat of battle, Blackbeard betrays them and kills Masuen. Aldril is destroyed and Earl Segreth is slain. Balur is crowned King of Paradise and the Oceans of the World. Blackbeard escapes.
+
+## Epilogues (Summer-Fall 715 YW)
+* Mana and Sandred battle the school of silver magi to surrender. They return to the three sisters to establish their own school.
+* Carale and Balur settle in Aldril to command the new kingdom.
+* John and Mundy sail for the pirate kingdom in Paradise, hoping to see Martin.
+* Martin lands on a small island in paradise and he and his son take it for themselves from the monsters.
+
+## Blackbeard Finale (Winter-Spring 716 YW)
+* Erok Blackbeard lies in wait and kills John Carewell out of jealousy during a stop on a small island, and Mundy is left to drift into the Three Sisters.
+* Sandred Magel and Mundy hunt down and slay Blackbeard on the Red Isle.
 
 # Storyboard
 
