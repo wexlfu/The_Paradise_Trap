@@ -1,4 +1,4 @@
-700 YW. The high seas west of Wesnoth. A motely collection of pirates, mercenaries, and privateers.
+712-716 YW. The high seas west of Wesnoth. A motely collection of pirates, mercenaries, and privateers.
 
 # Characters
 
@@ -62,6 +62,7 @@
 * Masuen - Elvish Mercenary Captain
 	* Sells her services to traders in Paradise, fights against all authority
 	* Helps Carewell organize his forces
+	* Oft enemies of the pirates
 
 * Guinewyr, Lady Weldyn, Queen of Wesnoth
 	* Current political head of Weldyn, claims to be Queen of Wesnoth
@@ -102,7 +103,7 @@
 * Balur is marooned but steals the signet ring of Aldril
 
 ## Cashing Out (Spring 713 YW)
-* In the spring, Elensefar is under blockade by Segret's navy, Carewell breaks the blockade briefly by accidentally arriving in the middle of the seige, allowing Elensefar to launch a counterattack
+* In the spring, Elensefar is under blockade by Segreth's navy, Carewell breaks the blockade briefly by accidentally arriving in the middle of the seige, allowing Elensefar to launch a counterattack
 	* Blockade to force a trade/tax deal
 * Captain Baylwa dispatched with a fleet to hunt down Carewell. Drives them into the island where Balur is marooned. Naval/cove battle ends with a storm driving off Baylwa, but pirates' ships are in in bad shape.
 * Balur joins the crew and guides them through the forest to a stand of great pines where they repair the ships with some resistance from the native wose/troll population.
@@ -111,11 +112,13 @@
 * John forms a new plan to steal as much loot as possible and settle in Paradise
 	* Martin not happy about leaving his wife and son even longer
 * Carewell raids some merchant ships on his way to Paradise
+	* Clashes with Masuen
 
 ## Returning to Paradise (Summer 713 YW)
 * Mana Eloro defends her city (Soroyn) against Segreth's forces. They enlist the help of Masuen's mercenaries, who had been wintering there.
 * Carewell arrives with enough naval power to force Segreth's forces to retreat from the island.
 * Soroyn leadership, Mana Eloro, the Carwell pirates, and Masuen hold council on how to handle Segreth's aggression.
+	* John extracts $$$
 * John and Martin head on a diplomatic mission to Erok Blackbeard's home base.
 * Meanwhile, Balur and Mana defend Soroyn from Segreth's attempted counterattack.
 * John and Martin fight through the surface inhabitants of Blackbeard's island (drakes/monsters) and essentially break through the back door of his underground base.
@@ -126,6 +129,7 @@
 ## Settling in Paradise (Autumn 713 YW - Winter 713-714 YW)
 * Carewell and Blackbeard execute a rescue mission evacuating the earth magi and crew. Carewell flees west into Paradise, Blackbeard returns home.
 * Balur and Mana begin subjugating the local outlaws and pirates and uniting them under the Carewell banner.
+	* Undead pirate gold.
 * Mundy is discovered during an expidition to quell a group of hostile orcish pirate settlers. He joins the crew.
 * John and Martin construct a pirate base to establish their army. John leads a daring mission to establish contact with Masuen's fleet before Winter and try to gain allies against Segreth.
 * Late in the winter, Sandred Magel is teleported in by Thar-Nella magi as an agent against Segreth's dominion and order of silver magi. He warns of teleportation research.
@@ -178,14 +182,15 @@
 
 ## Intro
 
-* John and Martin winter on an island (2 scenarios)
+* John and Martin winter on an island (S:2, D:2)
 	* End of a voyage
 	* Establish energetic John with plenty of camraderie
 	* Establish tired, wiser Martin
 	* Establish they are ready to cash out and return, John to celebration, Martin to his family in Aldril.
 	* Establish boat mechanics and first outlaw army.
+	* (M:1) don't lose a man to the ice
 
-* Balur commits mutiny and escapes with the strongbox after being thrown overboard, rescued by a friendly merfolk (1 scenario, 1 cutscene)
+* Balur commits mutiny and escapes with the strongbox after being thrown overboard, rescued by a friendly merfolk (S:1, C:1, D:1)
 	* Establish his will to lead
 	* Hopes crushed after his boys all die
 	* But he's never been more driven for revenge
@@ -193,3 +198,33 @@
 	* Captain Esoas will be a recurring villain, eventually dragon to the big bad
 	* Balur is a ladies' man, he woos the mermaid who rescues him
 	* Balur obtains the signet ring of Aldril, being sent on the *Covenant* to Glamdrol for the lieutenant force of Aldril.
+
+* Elensefar under blockade, Carewell arrives unknowingly and Elensefar can mount a counterattack from land while Carewell arrives by sea. (S:1)
+	* Introduce naval combat.
+	* John plays the hero, Martin is the straight man
+	* Introduce Segreth's forces, Lord Bors talks after victory
+	* A battle of attrition - kill enemy leaders (M:1) OR kill X enemy units
+
+* Same map as before, but now Baylwa's fleet is coming in from the south. (S:1)
+	* Must defend the Miss Fortune until she is ready to sail, then flee.
+	* Establishes Martin's calm, cool, collected demeanor.
+	* John gives slightest hint that maybe this is too much.
+	* Generally down about not being able to cash out.
+	* Lord Bors holds the line.
+
+* Island battle. (S:1)
+	* Hold them off and weigh anchor in a safe place until the storm Martin spotted blows the enemy away.
+	* Must defend the only sheltered spot on the cove.
+	* Balur joins the crew half-starved, but having found some Undead Pirate Gold (undead pirates included).
+
+* New masts for the Miss Fortune. (S:1)
+	* Balur's debonair manner
+	* Players vs monsters (woses, trolls)
+
+* Camping in the dark, defending against the monsters, generally cozy semi-cutscene to get Balur trained up. (S:1)
+	* Plan to use the Aldril seal to dock in Blackwater.
+
+* Blackwater city. Urban fighting, stealth, hitting enough shops to restock. Escaping to the ship. Politics heavy. (S:1)
+
+* Sailing to Paradise. Raiding merchant ships defended by Masuen. Drive off enemy and capture merchant ships. (S:1)
+	* (M:1) for raiding enemy flagship before it escapes.

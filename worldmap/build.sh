@@ -1,9 +1,14 @@
 #!/bin/bash
-set -ex
+if ! [[ ./images/worldmap.png -ot ./worldmap/worldmap.cfg ]]; then
+	echo "Worldmap is up to date!"
+	if [[ -n "$wx" ]]; then
+		return 0
+	else
+		exit 0
+	fi
+fi
 
-cd "$(dirname "$0")"
-
-wesnoth --screenshot ./worldmap.cfg ../images/worldmap.png
+wesnoth --screenshot ./worldmap/worldmap.cfg ./images/worldmap.png > /dev/null
 
 commandline=""
 font="$(wesnoth --data-path)/fonts/OldaniaADFStd-Regular.otf"
@@ -49,4 +54,4 @@ label 3774 2670 "Aethenwood"
 label 423 1719 "Paradise" 3
 label 4344 1911 "Wesnoth" 3
 
-eval "convert $commandline ../images/worldmap.png ../images/worldmap.png"
+eval "convert $commandline ./images/worldmap.png ./images/worldmap.png"

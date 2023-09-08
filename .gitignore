@@ -1,2 +1,2 @@
-secrets
-_server.pbl
+*.kdev4
+.kdev4/
