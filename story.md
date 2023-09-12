@@ -190,29 +190,25 @@
 	* Establish boat mechanics and first outlaw army.
 	* (M:1) don't lose a man to the ice
 
-* Balur commits mutiny and escapes with the strongbox after being thrown overboard, rescued by a friendly merfolk (S:1, C:1, D:1)
+* Balur commits mutiny and escapes with the strongbox after being thrown overboard (rescued by a friendly merfolk) (S:1, D:1)
 	* Establish his will to lead
 	* Hopes crushed after his boys all die
 	* But he's never been more driven for revenge
 	* Marooned on winter island with nobody around, starving to death.
 	* Captain Esoas will be a recurring villain, eventually dragon to the big bad
-	* Balur is a ladies' man, he woos the mermaid who rescues him
 	* Balur obtains the signet ring of Aldril, being sent on the *Covenant* to Glamdrol for the lieutenant force of Aldril.
 
-* Elensefar under blockade, Carewell arrives unknowingly and Elensefar can mount a counterattack from land while Carewell arrives by sea. (S:1)
+## Cashing Out
+
+* Elensefar under blockade, Carewell arrives unknowingly and Elensefar can mount a counterattack from land while Carewell arrives by sea. (S:1, D:1)
 	* Introduce naval combat.
 	* John plays the hero, Martin is the straight man
 	* Introduce Segreth's forces, Lord Bors talks after victory
-	* A battle of attrition - kill enemy leaders (M:1) OR kill X enemy units
 
-* Same map as before, but now Baylwa's fleet is coming in from the south. (S:1)
-	* Must defend the Miss Fortune until she is ready to sail, then flee.
+* Island battle vs Baylwa's fleet (S:1, D:1)
 	* Establishes Martin's calm, cool, collected demeanor.
 	* John gives slightest hint that maybe this is too much.
 	* Generally down about not being able to cash out.
-	* Lord Bors holds the line.
-
-* Island battle. (S:1)
 	* Hold them off and weigh anchor in a safe place until the storm Martin spotted blows the enemy away.
 	* Must defend the only sheltered spot on the cove.
 	* Balur joins the crew half-starved, but having found some Undead Pirate Gold (undead pirates included).
@@ -228,3 +224,17 @@
 
 * Sailing to Paradise. Raiding merchant ships defended by Masuen. Drive off enemy and capture merchant ships. (S:1)
 	* (M:1) for raiding enemy flagship before it escapes.
+
+## Returning to Paradise
+
+## Settling in Paradise
+
+## Carewell Aggression
+
+## The First Carewell Offensive
+
+## The Darkness
+
+## The End of Aldril
+
+## Epilogue

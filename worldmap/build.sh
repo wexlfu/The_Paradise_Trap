@@ -1,5 +1,5 @@
 #!/bin/bash
-if ! [[ ./images/worldmap.png -ot ./worldmap/worldmap.cfg ]]; then
+if ! [[ ./images/worldmap.png -ot ./worldmap/worldmap.cfg ]] && ! [[ ./images/worldmap.png -ot ./worldmap/build.sh ]] ; then
 	echo "Worldmap is up to date!"
 	if [[ -n "$wx" ]]; then
 		return 0
