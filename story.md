@@ -213,7 +213,7 @@
 	* Must defend the only sheltered spot on the cove.
 	* Balur joins the crew half-starved, but having found some Undead Pirate Gold (undead pirates included).
 
-* New masts for the Miss Fortune. (S:1)
+* New masts for the Miss Fortune. (S:1, D:1)
 	* Balur's debonair manner
 	* Players vs monsters (woses, trolls)
 
