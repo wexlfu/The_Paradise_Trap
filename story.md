@@ -217,7 +217,7 @@
 	* Balur's debonair manner
 	* Players vs monsters (woses, trolls)
 
-* Camping in the dark, defending against the monsters, generally cozy semi-cutscene to get Balur trained up. (S:1)
+* Camping in the dark, defending against the monsters, generally cozy semi-cutscene to get Balur trained up. (S:1, D:1)
 	* Plan to use the Aldril seal to dock in Blackwater.
 
 * Blackwater city. Urban fighting, stealth, hitting enough shops to restock. Escaping to the ship. Politics heavy. (S:1)
