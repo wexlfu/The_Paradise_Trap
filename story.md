@@ -220,7 +220,7 @@
 * Camping in the dark, defending against the monsters, generally cozy semi-cutscene to get Balur trained up. (S:1, D:1)
 	* Plan to use the Aldril seal to dock in Blackwater.
 
-* Blackwater city. Urban fighting, stealth, hitting enough shops to restock. Escaping to the ship. Politics heavy. (S:1)
+* Blackwater city. Urban fighting, stealth, hitting enough shops to restock. Escaping to the ship. Politics heavy. (S:1, D:1)
 
 * Sailing to Paradise. Raiding merchant ships defended by Masuen. Drive off enemy and capture merchant ships. (S:1)
 	* (M:1) for raiding enemy flagship before it escapes.
